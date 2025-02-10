@@ -1,0 +1,57 @@
+{
+	"name": "pinkdopeybug",
+	"displayName": "PinkDopeyBug",
+	"description": "Pink Dopey Bug theme for Visual Studio Code",
+	"version": "0.0.9",
+	"license": "MIT",
+	"publisher": "PinkDopeyBug",
+	"engines": {
+		"vscode": "^1.94.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.ico",
+	"keywords": [
+		"pinkdopeybug",
+		"theme",
+		"PinkDopeyBug"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "PinkDopeyBug",
+				"uiTheme": "vs-dark",
+				"path": "./themes/PinkDopeyBug-color-theme.json"
+			}
+		]
+	},
+	"bugs": {
+		"url": "https://github.com/PinkDopeyBug/pinkdopeybug-theme/issues"
+	},
+	"homepage": "https://github.com/PinkDopeyBug/pinkdopeybug-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/PinkDopeyBug/pinkdopeybug-theme"
+	},
+	"sponsor": {
+		"url": "https://github.com/PinkDopeyBug"
+	},
+	"dependencies": {
+		"vsce": "^2.15.0"
+	},
+	"__metadata": {
+		"size": 15146260,
+		"id": "e36ac235-18ee-46d9-b0e2-f81e5b6639a6",
+		"publisherId": "e4b6138e-22f9-4c4d-a266-527822ae06f4",
+		"publisherDisplayName": "PinkDopeyBug",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": true,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1739182360121,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery"
+	}
+}
