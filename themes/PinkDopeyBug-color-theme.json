@@ -31,6 +31,7 @@
     "editorError.foreground": "#c24038",
     "editorGroup.border": "#666666",
     "editorGroupHeader.tabsBackground": "#2c313c",
+    "editorGroupHeader.border": "#505050",
     "editorHoverWidget.background": "#2c313c",
     "editorHoverWidget.border": "#666666",
     "editorIndentGuide.activeBackground1": "#909039",
@@ -47,8 +48,10 @@
     "editorSuggestWidget.selectedBackground": "#4c5464",
     "editorWhitespace.foreground": "#303845",
     "editorWidget.background": "#2c313c",
+    "editorWidget.border":"#505050",
     "focusBorder": "#007FD4",
     "input.background": "#2c313c",
+    "inlineChatInput.border":"#505050",
     "input.placeholderForeground": "#BBBBBB",
     "list.activeSelectionBackground": "#4c5464", //#775f7a
     "list.activeSelectionForeground": "#d7dae0",
@@ -81,6 +84,7 @@
     "statusBar.focusBorder": "#8292ac",
     "statusBar.foreground": "#9DA5B4", //#9DA5B4
     "statusBar.noFolderBackground": "#2c313c",
+    "statusBar.noFolderBorder":"#505050",
     "statusBarItem.focusBorder": "#8292ac",
     "statusBarItem.hoverBackground": "#59769b",
     "tab.activeBackground": "#3B4252",
