@@ -32,17 +32,17 @@
         "path": "./themes/great_love.json"
       },
       {
-				"id": "PinkDopeyBug-Star Constellation",
-        "label": "Star Constellation(PinkDopeyBug)",
+        "id": "PinkDopeyBug-Red Lotus",
+        "label": "Red Lotus(PinkDopeyBug)",
         "uiTheme": "vs",
-        "path": "./themes/star_constellation.json"
+        "path": "./themes/red_lotus.json"
       }
     ],
     "iconThemes": [
       {
-        "id": "PinkDopeyBug-Red Lotus",
-        "label": "Red Lotus(PinkDopeyBug)",
-        "path": "./fileicons/red_lotus.json"
+				"id": "PinkDopeyBug-Star Constellation",
+        "label": "Star Constellation(PinkDopeyBug)",
+        "path": "./fileicons/star_constellation.json"
       }
     ]
   },
