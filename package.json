@@ -26,10 +26,10 @@
         "path": "./themes/heaven_refining.json"
       },
       {
-				"id": "PinkDopeyBug-Great Love",
-        "label": "Great Love(PinkDopeyBug)",
+				"id": "PinkDopeyBug-Spectral Soul",
+        "label": "Spectral Soul(PinkDopeyBug)",
         "uiTheme": "vs-dark",
-        "path": "./themes/great_love.json"
+        "path": "./themes/spectral_soul.json"
       },
       {
         "id": "PinkDopeyBug-Red Lotus",
