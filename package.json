@@ -2,7 +2,7 @@
   "name": "pinkdopeybug",
   "displayName": "PinkDopeyBug",
   "description": "Pink Dopey Bug theme for Visual Studio Code",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "license": "MIT",
   "publisher": "PinkDopeyBug",
   "engines": {
@@ -26,23 +26,23 @@
         "path": "./themes/heaven_refining.json"
       },
       {
-				"id": "PinkDopeyBug-Great Love",
-        "label": "Great Love(PinkDopeyBug)",
+				"id": "PinkDopeyBug-Spectral Soul",
+        "label": "Spectral Soul(PinkDopeyBug)",
         "uiTheme": "vs-dark",
-        "path": "./themes/great_love.json"
+        "path": "./themes/spectral_soul.json"
       },
       {
-				"id": "PinkDopeyBug-Star Constellation",
-        "label": "Star Constellation(PinkDopeyBug)",
+        "id": "PinkDopeyBug-Red Lotus",
+        "label": "Red Lotus(PinkDopeyBug)",
         "uiTheme": "vs",
-        "path": "./themes/star_constellation.json"
+        "path": "./themes/red_lotus.json"
       }
     ],
     "iconThemes": [
       {
-        "id": "PinkDopeyBug-Red Lotus",
-        "label": "Red Lotus(PinkDopeyBug)",
-        "path": "./fileicons/red_lotus.json"
+				"id": "PinkDopeyBug-Star Constellation",
+        "label": "Star Constellation(PinkDopeyBug)",
+        "path": "./fileicons/star_constellation.json"
       }
     ]
   },
@@ -61,7 +61,7 @@
     "vsce": "^2.15.0"
   },
   "__metadata": {
-    "size": 15146260,
+    "size": 5072015,
     "id": "e36ac235-18ee-46d9-b0e2-f81e5b6639a6",
     "publisherId": "e4b6138e-22f9-4c4d-a266-527822ae06f4",
     "publisherDisplayName": "PinkDopeyBug",
