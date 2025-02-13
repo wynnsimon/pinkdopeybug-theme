@@ -112,7 +112,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#e3c888"
       }
     },
     {
@@ -233,7 +233,7 @@
     {
       "scope": "meta.structure.dictionary.key.python",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#e3c888"
       }
     },
     {
@@ -310,7 +310,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#e3c888"
       }
     },
     {
@@ -366,7 +366,7 @@
     {
       "scope": "support.function.git-rebase",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#e3c888"
       }
     },
     {
@@ -486,21 +486,21 @@
         "constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#e3c888"
       }
     },
     {
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
       "settings": {
-        "foreground": "#FC85AE"
+        "foreground": "#ff95b9"
       }
     },
     {
       "name": "Object keys, TS grammar specific",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#e3c888"
       }
     },
     {

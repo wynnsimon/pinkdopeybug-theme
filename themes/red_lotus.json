@@ -69,7 +69,7 @@
       "settings": { "fontStyle": "strikethrough" }
     },
     { "scope": "markup.inserted", "settings": { "foreground": "#098658" } },
-    { "scope": "markup.deleted", "settings": { "foreground": "#50bd4f" } },
+    { "scope": "markup.deleted", "settings": { "foreground": "#50A14F" } },
     { "scope": "markup.changed", "settings": { "foreground": "#0451a5" } },
     {
       "scope": [
@@ -90,7 +90,7 @@
     },
     {
       "scope": "meta.preprocessor.string",
-      "settings": { "foreground": "#50bd4f" }
+      "settings": { "foreground": "#50A14F" }
     },
     {
       "scope": "meta.preprocessor.numeric",
@@ -108,7 +108,7 @@
     },
     {
       "scope": ["string", "meta.embedded.assembly"],
-      "settings": { "foreground": "#50bd4f" }
+      "settings": { "foreground": "#50A14F" }
     },
     {
       "scope": [
@@ -307,7 +307,7 @@
     {
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
-      "settings": { "foreground": "#a56612" }
+      "settings": { "foreground": "#C18402" }
     },
     {
       "name": "Object keys, TS grammar specific",
