@@ -365,7 +365,34 @@
       "scope": "constant.character.escape",
       "settings": { "foreground": "#EE0000" }
     },
-    { "scope": "entity.name.label", "settings": { "foreground": "#000000" } }
+    { "scope": "entity.name.label", "settings": { "foreground": "#000000" } },
+    {
+      "name": "Decorators",
+      "scope": [
+        "storage.type.annotation.java",
+        
+        "entity.name.function.decorator.python",
+        
+        "meta.decorator.ts",
+        "meta.decorator punctuation.decorator.ts",
+        "meta.decorator variable.other.readwrite.ts",
+        
+        "meta.decorator.js",
+        "meta.decorator punctuation.decorator.js",
+        "meta.decorator variable.other.readwrite.js",
+        "meta.decorator.js entity.name.function.decorator",
+        "meta.decorator.js meta.property-name",
+
+        "storage.type.attribute.cs",
+        
+        "meta.attribute.php",
+        
+        "meta.annotation.kotlin"
+      ],
+      "settings": {
+        "foreground": "#BBB529"
+      }
+    }
   ],
   "semanticHighlighting": true,
   "semanticTokenColors": {

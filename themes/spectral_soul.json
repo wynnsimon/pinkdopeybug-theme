@@ -5,7 +5,7 @@
   "semanticTokenColors": {
     "newOperator": "#C792EA",
     "stringLiteral": "#92D69E",
-    "customLiteral": "#4FC1FF",
+    "customLiteral": "#61AFEF",
     "numberLiteral": "##D19A66",
     "enumMember": {
       "foreground": "#56b6c2"
@@ -14,7 +14,7 @@
       "foreground": "#d19a66"
     },
     "variable.defaultLibrary": {
-      "foreground": "#4FC1FF"
+      "foreground": "#61AFEF"
     },
     "variable:dart": {
       "foreground": "#d19a66"
@@ -32,10 +32,13 @@
       "foreground": "#d19a66"
     },
     "tomlArrayKey": {
-      "foreground": "#4FC1FF"
+      "foreground": "#61AFEF"
     },
     "memberOperatorOverload": {
       "foreground": "#C792EA"
+    },
+    "decorator":{
+      "foreground": "#BBB529"
     }
   },
   "tokenColors": [
@@ -112,7 +115,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#e3c888"
+        "foreground": "#E3C888"
       }
     },
     {
@@ -403,7 +406,7 @@
         "entity.name.operator.custom-literal"
       ],
       "settings": {
-        "foreground": "#4FC1FF"
+        "foreground": "#61AFEF"
       }
     },
     {
@@ -547,7 +550,7 @@
     {
       "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
       "settings": {
-        "foreground": "#4FC1FF"
+        "foreground": "#61AFEF"
       }
     },
     {
@@ -572,6 +575,33 @@
       "scope": "entity.name.label",
       "settings": {
         "foreground": "#C8C8C8"
+      }
+    },
+    {
+      "name": "Decorators",
+      "scope": [
+        "storage.type.annotation.java",
+        
+        "entity.name.function.decorator.python",
+        
+        "meta.decorator.ts",
+        "meta.decorator punctuation.decorator.ts",
+        "meta.decorator variable.other.readwrite.ts",
+        
+        "meta.decorator.js",
+        "meta.decorator punctuation.decorator.js",
+        "meta.decorator variable.other.readwrite.js",
+        "meta.decorator.js entity.name.function.decorator",
+        "meta.decorator.js meta.property-name",
+
+        "storage.type.attribute.cs",
+        
+        "meta.attribute.php",
+        
+        "meta.annotation.kotlin"
+      ],
+      "settings": {
+        "foreground": "#BBB529"
       }
     }
   ]
