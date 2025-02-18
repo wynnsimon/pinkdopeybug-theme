@@ -7321,6 +7321,8 @@
     "cfg": "settings",
     "cnf": "settings",
     ".tool-versions": "settings",
+    "ts": "typescript",
+    "ets": "typescript",
     "d.ts": "typescript-def",
     "d.cts": "typescript-def",
     "d.mts": "typescript-def",
