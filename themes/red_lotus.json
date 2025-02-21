@@ -307,7 +307,7 @@
     {
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
-      "settings": { "foreground": "#C18402" }
+      "settings": { "foreground": "#DE9523" }
     },
     {
       "name": "Object keys, TS grammar specific",
@@ -370,13 +370,13 @@
       "name": "Decorators",
       "scope": [
         "storage.type.annotation.java",
-        
+
         "entity.name.function.decorator.python",
-        
+
         "meta.decorator.ts",
         "meta.decorator punctuation.decorator.ts",
         "meta.decorator variable.other.readwrite.ts",
-        
+
         "meta.decorator.js",
         "meta.decorator punctuation.decorator.js",
         "meta.decorator variable.other.readwrite.js",
@@ -384,9 +384,9 @@
         "meta.decorator.js meta.property-name",
 
         "storage.type.attribute.cs",
-        
+
         "meta.attribute.php",
-        
+
         "meta.annotation.kotlin"
       ],
       "settings": {
