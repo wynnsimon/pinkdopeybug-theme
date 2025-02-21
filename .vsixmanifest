@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="pinkdopeybug" Version="0.0.9" Publisher="PinkDopeyBug" />
+			<Identity Language="en-US" Id="pinkdopeybug" Version="0.2.0" Publisher="PinkDopeyBug" />
 			<DisplayName>PinkDopeyBug</DisplayName>
 			<Description xml:space="preserve">Pink Dopey Bug theme for Visual Studio Code</Description>
-			<Tags>pinkdopeybug,theme,PinkDopeyBug,color-theme,__web_extension,__sponsor_extension</Tags>
+			<Tags>pinkdopeybug,theme,PinkDopeyBug,color-theme,icon-theme,__web_extension,__sponsor_extension</Tags>
 			<Categories>Themes</Categories>
 			<GalleryFlags>Public</GalleryFlags>
 			

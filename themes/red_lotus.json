@@ -1,6 +1,6 @@
 {
   "name": "PinkDopeyBug-Red Lotus",
-  "include": "./ui_light.json",
+  "include": "./ui_light_white.json",
   "tokenColors": [
     {
       "scope": [

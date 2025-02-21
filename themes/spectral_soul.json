@@ -1,6 +1,6 @@
 {
   "name": "PinkDopeyBug-Spectral Soul",
-  "include": "./ui_dark.json",
+  "include": "./ui_dark_blue.json",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "newOperator": "#C792EA",

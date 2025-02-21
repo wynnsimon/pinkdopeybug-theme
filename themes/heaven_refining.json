@@ -1,6 +1,6 @@
 {
   "name": "PinkDopeyBug-Heaven Refining",
-  "include":"./ui_dark.json",
+  "include":"./ui_dark_blue.json",
   "semanticTokenColors": {
     "enumMember": {
       "foreground": "#56b6c2"
