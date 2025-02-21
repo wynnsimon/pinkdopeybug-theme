@@ -1,10 +1,17 @@
+# Version-0.2.1(2025-02-21)
+
+- 增加Primordial Origin语义颜色对比度，修改按钮等组件选中高亮背景色和前景色，添加光标所在行边框高亮
+
+---
+
+
+
 # Version-0.2.0(2025-02-21)
 
 - 新增Primordial Origin亮色主题，该主题保持和-Red Lotus相同的语义高亮，但ui颜色是仿照vs2022官方的蓝色主题
 - Star Constellation文件图标主题适配了鸿蒙前端开发环境下的ArkTS语言
 
 ---
-
 
 # Version-0.1.3(2025-02-18)
 
