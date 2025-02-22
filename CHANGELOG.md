@@ -1,3 +1,12 @@
+# Version-0.2.3(2025-02-22)
+
+- Primordial Origin修改部分语义颜色
+- Primordial Origin修改括号颜色
+
+---
+
+
+
 # Version-0.2.2(2025-02-22)
 
 - Primordial Origin修改git更改颜色
@@ -5,8 +14,6 @@
 - Primordial Origin修改列表悬停背景色
 
 ---
-
-
 
 # Version-0.2.1(2025-02-21)
 

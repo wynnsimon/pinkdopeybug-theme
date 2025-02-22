@@ -5,7 +5,7 @@
   "semanticTokenColors": {
     "newOperator": "#AF00DB",
     "stringLiteral": "#28a745",
-    "customLiteral": "#4078F2",
+    "customLiteral": "#274af7",
     "numberLiteral": "#E45649",
     "enumMember": {
       "foreground": "#56b6c2"
@@ -14,7 +14,7 @@
       "foreground": "#E45649"
     },
     "variable.defaultLibrary": {
-      "foreground": "#4078F2"
+      "foreground": "#274af7"
     },
     "variable:dart": {
       "foreground": "#E45649"
@@ -32,7 +32,7 @@
       "foreground": "#E45649"
     },
     "tomlArrayKey": {
-      "foreground": "#4078F2"
+      "foreground": "#274af7"
     },
     "memberOperatorOverload": {
       "foreground": "#AF00DB"
@@ -406,7 +406,7 @@
         "entity.name.operator.custom-literal"
       ],
       "settings": {
-        "foreground": "#4078F2"
+        "foreground": "#274af7"
       }
     },
     {
@@ -446,7 +446,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#22c9a7"
+        "foreground": "#24ada2"
       }
     },
     {
@@ -461,7 +461,7 @@
         "punctuation.separator.namespace.ruby"
       ],
       "settings": {
-        "foreground": "#22c9a7"
+        "foreground": "#24ada2"
       }
     },
     {
@@ -550,7 +550,7 @@
     {
       "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
       "settings": {
-        "foreground": "#4078F2"
+        "foreground": "#274af7"
       }
     },
     {
