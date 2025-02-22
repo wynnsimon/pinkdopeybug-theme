@@ -199,13 +199,15 @@
     "tab.activeBorder": "#5D6B99",
     "panel.border": "#5D6B99",
     "tree.indentGuidesStroke": "#7160e8",
-
     "gitDecoration.addedResourceForeground": "#28a745",
     "gitDecoration.modifiedResourceForeground": "#005cc5",
     "gitDecoration.deletedResourceForeground": "#d73a49",
     "gitDecoration.untrackedResourceForeground": "#28a745",
     "gitDecoration.ignoredResourceForeground": "#959da5",
     "gitDecoration.conflictingResourceForeground": "#e36209",
-    "gitDecoration.submoduleResourceForeground": "#959da5"
+    "gitDecoration.submoduleResourceForeground": "#959da5",
+    "editorBracketHighlight.foreground1": "#ff9bce",
+    "editorBracketHighlight.foreground2": "#56d364",
+    "editorBracketHighlight.foreground3": "#d2a8ff"
   }
 }
