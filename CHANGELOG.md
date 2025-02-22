@@ -1,10 +1,18 @@
+# Version-0.2.2(2025-02-22)
+
+- Primordial Origin修改git更改颜色
+- Primordial Origin修改徽记颜色
+- Primordial Origin修改列表悬停背景色
+
+---
+
+
+
 # Version-0.2.1(2025-02-21)
 
 - 增加Primordial Origin语义颜色对比度，修改按钮等组件选中高亮背景色和前景色，添加光标所在行边框高亮
 
 ---
-
-
 
 # Version-0.2.0(2025-02-21)
 
