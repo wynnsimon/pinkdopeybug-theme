@@ -205,9 +205,6 @@
     "gitDecoration.untrackedResourceForeground": "#28a745",
     "gitDecoration.ignoredResourceForeground": "#959da5",
     "gitDecoration.conflictingResourceForeground": "#e36209",
-    "gitDecoration.submoduleResourceForeground": "#959da5",
-    "editorBracketHighlight.foreground1": "#ff9bce",
-    "editorBracketHighlight.foreground2": "#56d364",
-    "editorBracketHighlight.foreground3": "#d2a8ff"
+    "gitDecoration.submoduleResourceForeground": "#959da5"
   }
 }

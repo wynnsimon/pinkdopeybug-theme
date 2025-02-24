@@ -1,10 +1,16 @@
+# Version-0.2.5(2025-02-24)
+
+- Primordial Origin修改括号颜色
+
+---
+
+
+
 # Version-0.2.4(2025-02-24)
 
 - Star Constellation修改unity，unity文件夹，jsconfig，tsconfig，pyc文件图标
 
 ---
-
-
 
 # Version-0.2.3(2025-02-22)
 
