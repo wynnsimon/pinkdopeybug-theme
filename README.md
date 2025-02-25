@@ -1,6 +1,6 @@
-# README
+# PinkDopeyBug
 
-##### 描述
+## 概述
 
 PinkDopeyBug 是一款适用于Visual Studio Code的主题插件它包含一下主题选项：
 
@@ -12,26 +12,16 @@ PinkDopeyBug 是一款适用于Visual Studio Code的主题插件它包含一下�
 
 ---
 
-##### 安装方法
 
-1. 打开 VSCode 并进入扩展市场（快捷键 `Ctrl+Shift+X` 或 `Cmd+Shift+X`）。
-2. 搜索 `PinkDopeyBug`。
-3. 点击安装按钮并重新加载编辑器（或重启编辑器）。
 
----
+## 许可证
 
-##### 使用说明
+### 源代码和文件图标主题许可证
 
-安装后，您需要手动切换到 PinkDopeyBug 主题。这可以通过以下步骤完成：
+项目的源代码（包括文件图标主题）遵循 MIT 许可证。请参阅 [LICENSE](LICENSE) 文件以获取详细信息。
 
-1. 打开设置（快捷键 `Ctrl+,` 或 `Cmd+,`）。
-2. 搜索 `颜色主题`。
-3. 在下拉列表中选择 `PinkDopeyBug`。
+### 主图标专用许可证
 
----
+项目中的主图标由 不是F 创作并拥有版权，遵循专用许可证。请参阅 [MAIN_ICON_LICENSE](MAIN_ICON_LICENSE) 文件以获取详细条款和条件。
 
-##### 联系方式
-
-如果您有任何建议或发现任何问题，请通过以下方式联系我们：
-
-* GitHub: [PinkDopeyBug (PinkDopeyBug)](https://github.com/PinkDopeyBug)
+如需获取额外授权或许可，请联系被授权方：pinkdopeybug@163.com。被授权方将作为中介，根据需要将请求转发给原作者。
