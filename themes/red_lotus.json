@@ -53,7 +53,7 @@
       ],
       "settings": { "foreground": "#800000" }
     },
-    { "scope": "invalid", "settings": { "foreground": "#cd3131" } },
+    { "scope": "invalid", "settings": { "foreground": "#f44747" } },
     { "scope": "markup.underline", "settings": { "fontStyle": "underline" } },
     {
       "scope": "markup.bold",

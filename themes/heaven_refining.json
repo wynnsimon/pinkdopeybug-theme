@@ -1054,51 +1054,9 @@
       }
     },
     {
-      "name": "illegal",
-      "scope": "invalid.illegal",
+      "scope": "invalid",
       "settings": {
-        "foreground": "#ffffff"
-      }
-    },
-    {
-      "name": "illegal",
-      "scope": "invalid.illegal.bad-ampersand.html",
-      "settings": {
-        "foreground": "#abb2bf"
-      }
-    },
-    {
-      "scope": "invalid.illegal.unrecognized-tag.html",
-      "settings": {
-        "foreground": "#FC85AE"
-      }
-    },
-    {
-      "name": "Broken",
-      "scope": "invalid.broken",
-      "settings": {
-        "foreground": "#ffffff"
-      }
-    },
-    {
-      "name": "Deprecated",
-      "scope": "invalid.deprecated",
-      "settings": {
-        "foreground": "#ffffff"
-      }
-    },
-    {
-      "name": "html Deprecated",
-      "scope": "invalid.deprecated.entity.other.attribute-name.html",
-      "settings": {
-        "foreground": "#d19a66"
-      }
-    },
-    {
-      "name": "Unimplemented",
-      "scope": "invalid.unimplemented",
-      "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#f44747"
       }
     },
     {
