@@ -103,7 +103,7 @@
     "statusBarItem.hoverBackground": "#B8B8B850",
     "statusBarItem.compactHoverBackground": "#CCCCCC",
     "statusBar.debuggingBackground": "#FD716C",
-    "statusBar.debuggingForeground": "#000000",
+    "statusBar.debuggingForeground": "#eeeeee",
     "statusBar.focusBorder": "#526FFF",
     "statusBar.noFolderBackground": "#E6E6E6",
     "statusBarItem.errorBackground": "#C72E0F",
