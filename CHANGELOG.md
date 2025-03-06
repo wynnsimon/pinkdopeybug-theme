@@ -1,15 +1,21 @@
+# Version-1.0.3(2025-03-06)
+
+- 优化：Primordial Origin注释颜色
+
+---
+
+
+
 # Version-1.0.2(2025-02-27)
 
 - 优化：各颜色主题debug状态下状态栏颜色
 
 ---
 
-
-
 # Version-1.0.1(2025-02-26)
 
-- 修复：heaven_refining无效显示颜色缺失问题
-- 优化：red_lotus无效显示颜色
+- 修复：Heaven Refining无效显示颜色缺失问题
+- 优化：Red Lotus无效显示颜色
 
 ---
 
