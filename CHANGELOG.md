@@ -1,10 +1,16 @@
+# Version-1.0.4(2025-03-14)
+
+- 优化：Primordial Origin光标所在行数高亮颜色
+
+---
+
+
+
 # Version-1.0.3(2025-03-06)
 
 - 优化：Primordial Origin注释颜色
 
 ---
-
-
 
 # Version-1.0.2(2025-02-27)
 
