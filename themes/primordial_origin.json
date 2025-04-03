@@ -6,30 +6,30 @@
     "newOperator": "#AF00DB",
     "stringLiteral": "#28a745",
     "customLiteral": "#274af7",
-    "numberLiteral": "#E45649",
+    "numberLiteral": "#f44747",
     "enumMember": {
       "foreground": "#56b6c2"
     },
     "variable.constant": {
-      "foreground": "#E45649"
+      "foreground": "#f44747"
     },
     "variable.defaultLibrary": {
       "foreground": "#274af7"
     },
     "variable:dart": {
-      "foreground": "#E45649"
+      "foreground": "#f44747"
     },
     "property:dart": {
-      "foreground": "#E45649"
+      "foreground": "#f44747"
     },
     "annotation:dart": {
-      "foreground": "#E45649"
+      "foreground": "#f44747"
     },
     "parameter.label:dart": {
       "foreground": "#abb2bf"
     },
     "macro": {
-      "foreground": "#E45649"
+      "foreground": "#f44747"
     },
     "tomlArrayKey": {
       "foreground": "#274af7"
@@ -80,7 +80,7 @@
     {
       "scope": "constant.language",
       "settings": {
-        "foreground": "#E45649"
+        "foreground": "#f44747"
       }
     },
     {
@@ -91,7 +91,7 @@
         "keyword.operator.minus.exponent"
       ],
       "settings": {
-        "foreground": "#E45649"
+        "foreground": "#f44747"
       }
     },
     {
@@ -137,7 +137,7 @@
     {
       "scope": "invalid",
       "settings": {
-        "foreground": "#f44747"
+        "foreground": "#000000"
       }
     },
     {
@@ -230,7 +230,7 @@
     {
       "scope": "meta.preprocessor.numeric",
       "settings": {
-        "foreground": "#E45649"
+        "foreground": "#f44747"
       }
     },
     {
@@ -375,7 +375,7 @@
     {
       "scope": "constant.sha.git-rebase",
       "settings": {
-        "foreground": "#E45649"
+        "foreground": "#f44747"
       }
     },
     {

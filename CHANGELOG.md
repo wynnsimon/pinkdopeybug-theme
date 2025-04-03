@@ -1,10 +1,17 @@
+# Version-1.0.6(2025-04-02)
+
+- 优化：Primordial Origin无效属性颜色
+- 优化：Primordial Origin常量颜色
+
+---
+
+
+
 # Version-1.0.5(2025-03-16)
 
 - 优化：Primordial Origin内置终端文字显示颜色
 
 ---
-
-
 
 # Version-1.0.4(2025-03-14)
 
