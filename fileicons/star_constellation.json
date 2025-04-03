@@ -599,6 +599,8 @@
     "wrangler": { "iconPath": "./icons/wrangler.svg" },
     "epub": { "iconPath": "./icons/epub.svg" },
     "regedit": { "iconPath": "./icons/regedit.svg" },
+    "spring": { "iconPath": "./icons/spring.svg" },
+    "springboot": { "iconPath": "./icons/springboot.svg" },
     "file": { "iconPath": "./icons/file.svg" },
     "folder-rust": { "iconPath": "./icons/folder-rust.svg" },
     "folder-rust-open": { "iconPath": "./icons/folder-rust-open.svg" },
@@ -9965,8 +9967,13 @@
     "citation.cff": "citation",
     "xmake.lua": "xmake",
     "xmake": "xmake",
-    "wrangler.toml": "wrangler"
-
+    "wrangler.toml": "wrangler",
+    "application.properties": "spring",
+    "application.yml": "spring",
+    "application.yaml": "spring",
+    "bootstrap.yml": "springboot",
+    "bootstrap.yaml": "springboot",
+    "bootstrap.properties": "springboot"
   },
   "languageIds": {
     "git": "git",

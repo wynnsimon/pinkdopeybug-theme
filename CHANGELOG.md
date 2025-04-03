@@ -1,11 +1,18 @@
+# Version-1.0.7(2025-04-03)
+
+- 新增：Star Constellation中spring和springboot配置图标
+- 优化：Primordial Origin常量颜色
+
+---
+
+
+
 # Version-1.0.6(2025-04-02)
 
 - 优化：Primordial Origin无效属性颜色
 - 优化：Primordial Origin常量颜色
 
 ---
-
-
 
 # Version-1.0.5(2025-03-16)
 
