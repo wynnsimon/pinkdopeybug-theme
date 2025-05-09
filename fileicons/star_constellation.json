@@ -601,6 +601,8 @@
     "regedit": { "iconPath": "./icons/regedit.svg" },
     "spring": { "iconPath": "./icons/spring.svg" },
     "springboot": { "iconPath": "./icons/springboot.svg" },
+    "wxml": { "iconPath": "./icons/wxml.svg" },
+    "wxss": { "iconPath": "./icons/wxss.svg" },
     "file": { "iconPath": "./icons/file.svg" },
     "folder-rust": { "iconPath": "./icons/folder-rust.svg" },
     "folder-rust-open": { "iconPath": "./icons/folder-rust-open.svg" },
@@ -8145,8 +8147,8 @@
     "bean": "beancount",
     "epub": "epub",
     "reg": "regedit",
-    "wxml":"html",
-    "wxss":"css"
+    "wxml":"wxml",
+    "wxss":"wxss"
   },
   "fileNames": {
     ".pug-lintrc": "pug",

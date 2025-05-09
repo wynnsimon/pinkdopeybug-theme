@@ -1,11 +1,18 @@
+# Version-1.0.8(2025-05-09)
+
+- 修改：Star Constellation的部分图标
+- 优化：Primordial Origin编辑区当前行高亮颜色
+
+---
+
+
+
 # Version-1.0.7(2025-04-03)
 
 - 新增：Star Constellation中spring和springboot配置图标
 - 优化：Primordial Origin常量颜色
 
 ---
-
-
 
 # Version-1.0.6(2025-04-02)
 
