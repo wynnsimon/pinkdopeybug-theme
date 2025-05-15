@@ -42,7 +42,7 @@
     "editorGutter.deletedBackground": "#F85149",
     "editorGutter.modifiedBackground": "#2188ff",
     "editorIndentGuide.background1": "#D0D0D0",
-    "editorLineNumber.activeForeground": "#FAB621",
+    "editorLineNumber.activeForeground": "#F9826C",
     "editorLineNumber.foreground": "#8080b0",
     "editor.lineHighlightBorder": "#5D6B9960",
     "editorOverviewRuler.border": "#5D6B99",
