@@ -1,5 +1,7 @@
 # PinkDopeyBug
 
+项目包管理工具请使用npm
+
 ## 概述
 
 PinkDopeyBug 是一款适用于Visual Studio Code的主题插件它包含一下主题选项：

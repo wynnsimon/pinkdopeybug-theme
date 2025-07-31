@@ -1,3 +1,10 @@
+# Version-1.0.10(2025-07-31)
+
+- 修改：Star Constellation的高亮颜色
+
+---
+
+
 # Version-1.0.9(2025-05-15)
 
 - 修改：Star Constellation的nuxt及文件夹图标
