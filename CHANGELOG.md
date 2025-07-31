@@ -1,3 +1,9 @@
+# Version-1.0.11(2025-07-31)
+
+- 优化：Star Constellation高亮颜色
+
+---
+
 # Version-1.0.10(2025-07-31)
 
 - 修改：Star Constellation的高亮颜色
