@@ -2,7 +2,7 @@
 	"name": "pinkdopeybug",
 	"displayName": "PinkDopeyBug",
 	"description": "Pink Dopey Bug theme for Visual Studio Code",
-	"version": "1.0.11",
+	"version": "1.0.12",
 	"license": "MIT",
 	"publisher": "PinkDopeyBug",
 	"engines": {
