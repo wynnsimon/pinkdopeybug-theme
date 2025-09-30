@@ -1,6 +1,15 @@
 # PinkDopeyBug
 
+## 构建
+
+### 包管理工具
 项目包管理工具请使用npm
+
+### 颜色主题
+颜色主题无需额外配置即可使用
+
+### 图标主题
+图标主题是基于material-icons-theme配置覆盖的，因此在使用前需要进入fileicons目录中执行里面的index.js脚本，生成合并后的配置
 
 ## 概述
 
@@ -10,11 +19,9 @@ PinkDopeyBug 是一款适用于Visual Studio Code的主题插件它包含一下�
 - 👻Spectral Soul：暗色主题，ui颜色和Heaven Refining一样的深蓝色，提供类官方的语义高亮。
 - 🪷Red Lotus：亮色主题，ui颜色为灰白色，并提供类官方的语义高亮。
 - 🫧Primordial Origin：亮色主题，ui颜色仿照Visual Studio 2022的蓝色，并提供与Red Lotus相同的类官方的语义高亮。
-- ✨Star Constellation：文件图标主题。在Material Icons Theme的基础上修改部分图标适配了微信小程序开发环境下的wxml和wxss，适配了鸿蒙前端开发环境下的ArkTS。
+- ✨Star Constellation：文件图标主题。在Material Icons Theme的基础上修改部分图标适配了微信小程序开发环境下的wxml和wxss。
 
 ---
-
-
 
 ## 许可证
 

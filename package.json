@@ -2,7 +2,7 @@
 	"name": "pinkdopeybug",
 	"displayName": "PinkDopeyBug",
 	"description": "Pink Dopey Bug theme for Visual Studio Code",
-	"version": "1.0.11",
+	"version": "1.0.13",
 	"license": "MIT",
 	"publisher": "PinkDopeyBug",
 	"engines": {
@@ -48,7 +48,7 @@
 			{
 				"id": "PinkDopeyBug-Star Constellation",
 				"label": "Star Constellation(PinkDopeyBug)",
-				"path": "./fileicons/star_constellation.json"
+				"path": "./fileicons/dist/star_constellation.json"
 			}
 		]
 	},

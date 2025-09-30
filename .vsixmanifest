@@ -7,27 +7,21 @@
 			<Tags>pinkdopeybug,theme,PinkDopeyBug,color-theme,icon-theme,__web_extension,__sponsor_extension</Tags>
 			<Categories>Themes</Categories>
 			<GalleryFlags>Public</GalleryFlags>
-			
+
 			<Properties>
 				<Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.94.0" />
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="" />
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionKind" Value="ui,workspace,web" />
 				<Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
-				
 				<Property Id="Microsoft.VisualStudio.Code.SponsorLink" Value="https://github.com/PinkDopeyBug" />
 				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/PinkDopeyBug/pinkdopeybug-theme.git" />
 				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/PinkDopeyBug/pinkdopeybug-theme.git" />
 				<Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/PinkDopeyBug/pinkdopeybug-theme.git" />
 				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/PinkDopeyBug/pinkdopeybug-theme/issues" />
 				<Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/PinkDopeyBug/pinkdopeybug-theme" />
-				
-				
 				<Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
 				<Property Id="Microsoft.VisualStudio.Services.Content.Pricing" Value="Free"/>
-
-				
-				
 			</Properties>
 			<License>extension/LICENSE.txt</License>
 			<Icon>extension/icon.ico</Icon>
