@@ -1,3 +1,9 @@
+# Version-1.0.15(2025-10-1)
+
+- 修复：Primordial Origin文件列表行高亮颜色显示不正确
+
+---
+
 # Version-1.0.14(2025-10-1)
 
 - 修复：Star Constellation显示wxml、wxss、spring、springboot图标不生效的问题
