@@ -1,3 +1,15 @@
+# Version-1.0.14(2025-10-1)
+
+- 修复：Star Constellation显示wxml、wxss、spring、springboot图标不生效的问题
+
+---
+
+# Version-1.0.13(2025-09-30)
+
+- 优化：解耦自定义图标和material icon theme的配置
+
+---
+
 # Version-1.0.12(2025-08-2)
 
 - 优化：Star Constellation高亮颜色

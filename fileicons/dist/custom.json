@@ -1,0 +1,55 @@
+{
+  "iconDefinitions": {
+    "astro-config": { "iconPath": "./../customIcons/astro-config.svg" },
+    "coldfusion": { "iconPath": "./../customIcons/coldfusion.svg" },
+    "console": { "iconPath": "./../customIcons/console.svg" },
+    "c": { "iconPath": "./../customIcons/c.svg" },
+    "cpp": { "iconPath": "./../customIcons/cpp.svg" },
+    "csharp": { "iconPath": "./../customIcons/csharp.svg" },
+    "hpp": { "iconPath": "./../customIcons/hpp.svg" },
+    "java": { "iconPath": "./../customIcons/java.svg" },
+    "css": { "iconPath": "./../customIcons/css.svg" },
+    "css-map": { "iconPath": "./../customIcons/css-map.svg" },
+    "javascript": { "iconPath": "./../customIcons/javascript.svg" },
+    "javascript-map": { "iconPath": "./../customIcons/javascript-map.svg" },
+    "jsconfig": { "iconPath": "./../customIcons/jsconfig.svg" },
+    "json": { "iconPath": "./../customIcons/json.svg" },
+    "python-misc": { "iconPath": "./../customIcons/python-misc.svg" },
+    "tsconfig": { "iconPath": "./../customIcons/tsconfig.svg" },
+    "typescript": { "iconPath": "./../customIcons/typescript.svg" },
+    "typescript-def": { "iconPath": "./../customIcons/typescript-def.svg" },
+    "vite": { "iconPath": "./../customIcons/vite.svg" },
+    "vue-config": { "iconPath": "./../customIcons/vue-config.svg" },
+    "video": { "iconPath": "./../customIcons/video.svg" },
+    "vim": { "iconPath": "./../customIcons/vim.svg" },
+    "lisp": { "iconPath": "./../customIcons/lisp.svg" },
+    "lua": { "iconPath": "./../customIcons/lua.svg" },
+    "godot": { "iconPath": "./../customIcons/godot.svg" },
+    "godot-assets": { "iconPath": "./../customIcons/godot-assets.svg" },
+    "unity": { "iconPath": "./../customIcons/unity.svg" },
+    "folder-unity": { "iconPath": "./../customIcons/folder-unity.svg" },
+    "folder-unity-open": {
+      "iconPath": "./../customIcons/folder-unity-open.svg"
+    },
+    "wxml": { "iconPath": "./../customIcons/wxml.svg" },
+    "wxss": { "iconPath": "./../customIcons/wxss.svg" },
+    "spring": { "iconPath": "./../customIcons/spring.svg" },
+    "springboot": { "iconPath": "./../customIcons/springboot.svg" }
+  },
+  "fileNames":{
+    "application.properties": "spring",
+    "application.yml": "spring",
+    "application.yaml": "spring",
+    "bootstrap.yml": "springboot",
+    "bootstrap.yaml": "springboot",
+    "bootstrap.properties": "springboot"
+  },
+  "fileExtensions": {
+    "wxml": "wxml",
+    "wxss": "wxss"
+  },
+  "languageIds": {
+    "wxml": "wxml",
+    "wxss": "wxss"
+  }
+}
