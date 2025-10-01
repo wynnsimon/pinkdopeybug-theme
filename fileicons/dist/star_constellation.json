@@ -3478,16 +3478,16 @@
       "iconPath": "./../icons/folder-root-open.svg"
     },
     "wxml": {
-      "iconPath": "../../customIcons/wxml.svg"
+      "iconPath": "./../customIcons/wxml.svg"
     },
     "wxss": {
-      "iconPath": "../../customIcons/wxss.svg"
+      "iconPath": "./../customIcons/wxss.svg"
     },
     "spring": {
-      "iconPath": "../../customIcons/spring.svg"
+      "iconPath": "./../customIcons/spring.svg"
     },
     "springboot": {
-      "iconPath": "../../customIcons/springboot.svg"
+      "iconPath": "./../customIcons/springboot.svg"
     }
   },
   "folderNames": {

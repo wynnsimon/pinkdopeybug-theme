@@ -31,6 +31,6 @@ PinkDopeyBug 是一款适用于Visual Studio Code的主题插件它包含一下�
 
 ### 主图标专用许可证
 
-项目中的主图标由 不是F 创作并拥有版权，遵循专用许可证。请参阅 [MAIN_ICON_LICENSE](MAIN_ICON_LICENSE.md) 文件以获取详细条款和条件。
+项目中的主图标由 不是F 创作并拥有版权，遵循专用许可证。请参阅 [MAIN.ICON.LICENSE](MAIN.ICON.LICENSE.txt) 文件以获取详细条款和条件。
 
 如需获取额外授权或许可，请联系被授权方：pinkdopeybug@163.com。被授权方将作为中介，根据需要将请求转发给原作者。

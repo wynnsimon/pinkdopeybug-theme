@@ -31,10 +31,10 @@
     "folder-unity-open": {
       "iconPath": "./../customIcons/folder-unity-open.svg"
     },
-    "wxml": { "iconPath": "../../customIcons/wxml.svg" },
-    "wxss": { "iconPath": "../../customIcons/wxss.svg" },
-    "spring": { "iconPath": "../../customIcons/spring.svg" },
-    "springboot": { "iconPath": "../../customIcons/springboot.svg" }
+    "wxml": { "iconPath": "./../customIcons/wxml.svg" },
+    "wxss": { "iconPath": "./../customIcons/wxss.svg" },
+    "spring": { "iconPath": "./../customIcons/spring.svg" },
+    "springboot": { "iconPath": "./../customIcons/springboot.svg" }
   },
   "fileNames":{
     "application.properties": "spring",
