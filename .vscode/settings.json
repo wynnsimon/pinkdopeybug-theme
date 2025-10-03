@@ -1,0 +1,8 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["themes/*.json"],
+      "url": "./.vscode/theme-schema.json"
+    }
+  ]
+}
