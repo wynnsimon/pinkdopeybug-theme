@@ -1,6 +1,12 @@
-# Version-1.0.18(2025-10-3)
+# Version-1.0.19(2025-10-25)
 
-- 新增：为主题配置添加json schema
+- 发布至open-vsx
+
+---
+
+# Version-1.0.18(2025-10-25)
+
+- 跟随material-icons-theme更新
 
 ---
 
