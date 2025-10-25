@@ -1,3 +1,15 @@
+# Version-1.0.19(2025-10-25)
+
+- 发布至open-vsx
+
+---
+
+# Version-1.0.18(2025-10-25)
+
+- 跟随material-icons-theme更新
+
+---
+
 # Version-1.0.17(2025-10-2)
 
 - 重构：亮色主题token逻辑

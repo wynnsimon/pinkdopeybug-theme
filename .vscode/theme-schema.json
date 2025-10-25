@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/schemas/universal-color-schema.json",
+  "title": "Universal Recursive Color Schema",
+  "type": "object",
+  "patternProperties": {
+    ".*": { "$ref": "#/definitions/colorOrAny" }
+  },
+  "additionalProperties": true,
+  "definitions": {
+    "colorOrAny": {
+      "anyOf": [
+        {
+          "type": "string",
+          "pattern": "^#([0-9A-Fa-f]{6}|[0-9A-Fa-f]{8})$",
+          "format": "color"
+        },
+        { "type": "string" },
+        { "type": "number" },
+        { "type": "boolean" },
+        { "type": "null" },
+        {
+          "type": "array",
+          "items": { "$ref": "#/definitions/colorOrAny" }
+        },
+        {
+          "type": "object",
+          "patternProperties": {
+            ".*": { "$ref": "#/definitions/colorOrAny" }
+          },
+          "additionalProperties": true
+        }
+      ]
+    }
+  }
+}
