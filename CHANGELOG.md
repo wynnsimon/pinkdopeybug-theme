@@ -1,3 +1,9 @@
+# Version-1.0.20(2025-11-23)
+
+- 跟随material-icon-theme更新
+
+---
+
 # Version-1.0.19(2025-10-25)
 
 - 发布至open-vsx

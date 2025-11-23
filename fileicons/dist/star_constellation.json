@@ -474,6 +474,9 @@
     "cue": {
       "iconPath": "./../icons/cue.svg"
     },
+    "lean": {
+      "iconPath": "./../icons/lean.svg"
+    },
     "blink_light": {
       "iconPath": "./../icons/blink_light.svg"
     },
@@ -605,6 +608,12 @@
     },
     "certificate": {
       "iconPath": "./../icons/certificate.svg"
+    },
+    "license": {
+      "iconPath": "./../icons/license.svg"
+    },
+    "unlicense": {
+      "iconPath": "./../icons/unlicense.svg"
     },
     "key": {
       "iconPath": "./../icons/key.svg"
@@ -866,6 +875,9 @@
     },
     "rstack": {
       "iconPath": "./../icons/rstack.svg"
+    },
+    "lynx": {
+      "iconPath": "./../icons/lynx.svg"
     },
     "ionic": {
       "iconPath": "./../icons/ionic.svg"
@@ -1896,8 +1908,8 @@
     "tsdoc": {
       "iconPath": "./../icons/tsdoc.svg"
     },
-    "oxlint": {
-      "iconPath": "./../icons/oxlint.svg"
+    "oxc": {
+      "iconPath": "./../icons/oxc.svg"
     },
     "vanilla-extract": {
       "iconPath": "./../icons/vanilla-extract.svg"
@@ -1943,6 +1955,12 @@
     },
     "shellcheck_light": {
       "iconPath": "./../icons/shellcheck_light.svg"
+    },
+    "warp": {
+      "iconPath": "./../icons/warp.svg"
+    },
+    "warp_light": {
+      "iconPath": "./../icons/warp_light.svg"
     },
     "file": {
       "iconPath": "./../icons/file.svg"
@@ -3351,6 +3369,12 @@
     "folder-favicon-open": {
       "iconPath": "./../icons/folder-favicon-open.svg"
     },
+    "folder-features": {
+      "iconPath": "./../icons/folder-features.svg"
+    },
+    "folder-features-open": {
+      "iconPath": "./../icons/folder-features-open.svg"
+    },
     "folder-lefthook": {
       "iconPath": "./../icons/folder-lefthook.svg"
     },
@@ -3530,6 +3554,12 @@
     },
     "folder-cue-open": {
       "iconPath": "./../icons/folder-cue-open.svg"
+    },
+    "folder-license": {
+      "iconPath": "./../icons/folder-license.svg"
+    },
+    "folder-license-open": {
+      "iconPath": "./../icons/folder-license-open.svg"
     },
     "folder": {
       "iconPath": "./../icons/folder.svg"
@@ -6776,6 +6806,22 @@
     ".favicons": "folder-favicon",
     "_favicons": "folder-favicon",
     "__favicons__": "folder-favicon",
+    "feature": "folder-features",
+    ".feature": "folder-features",
+    "_feature": "folder-features",
+    "__feature__": "folder-features",
+    "features": "folder-features",
+    ".features": "folder-features",
+    "_features": "folder-features",
+    "__features__": "folder-features",
+    "feat": "folder-features",
+    ".feat": "folder-features",
+    "_feat": "folder-features",
+    "__feat__": "folder-features",
+    "feats": "folder-features",
+    ".feats": "folder-features",
+    "_feats": "folder-features",
+    "__feats__": "folder-features",
     "lefthook": "folder-lefthook",
     ".lefthook": "folder-lefthook",
     "_lefthook": "folder-lefthook",
@@ -7031,7 +7077,15 @@
     "cues": "folder-cue",
     ".cues": "folder-cue",
     "_cues": "folder-cue",
-    "__cues__": "folder-cue"
+    "__cues__": "folder-cue",
+    "license": "folder-license",
+    ".license": "folder-license",
+    "_license": "folder-license",
+    "__license__": "folder-license",
+    "licenses": "folder-license",
+    ".licenses": "folder-license",
+    "_licenses": "folder-license",
+    "__licenses__": "folder-license"
   },
   "folderNamesExpanded": {
     "rust": "folder-rust-open",
@@ -10253,6 +10307,22 @@
     ".favicons": "folder-favicon-open",
     "_favicons": "folder-favicon-open",
     "__favicons__": "folder-favicon-open",
+    "feature": "folder-features-open",
+    ".feature": "folder-features-open",
+    "_feature": "folder-features-open",
+    "__feature__": "folder-features-open",
+    "features": "folder-features-open",
+    ".features": "folder-features-open",
+    "_features": "folder-features-open",
+    "__features__": "folder-features-open",
+    "feat": "folder-features-open",
+    ".feat": "folder-features-open",
+    "_feat": "folder-features-open",
+    "__feat__": "folder-features-open",
+    "feats": "folder-features-open",
+    ".feats": "folder-features-open",
+    "_feats": "folder-features-open",
+    "__feats__": "folder-features-open",
     "lefthook": "folder-lefthook-open",
     ".lefthook": "folder-lefthook-open",
     "_lefthook": "folder-lefthook-open",
@@ -10508,7 +10578,15 @@
     "cues": "folder-cue-open",
     ".cues": "folder-cue-open",
     "_cues": "folder-cue-open",
-    "__cues__": "folder-cue-open"
+    "__cues__": "folder-cue-open",
+    "license": "folder-license-open",
+    ".license": "folder-license-open",
+    "_license": "folder-license-open",
+    "__license__": "folder-license-open",
+    "licenses": "folder-license-open",
+    ".licenses": "folder-license-open",
+    "_licenses": "folder-license-open",
+    "__licenses__": "folder-license-open"
   },
   "rootFolderNames": {},
   "rootFolderNamesExpanded": {},
@@ -10659,6 +10737,8 @@
     "srf": "image",
     "srw": "image",
     "x3f": "image",
+    "ktx": "image",
+    "ktx2": "image",
     "pal": "palette",
     "gpl": "palette",
     "act": "palette",
@@ -10844,6 +10924,7 @@
     "cp": "cpp",
     "mii": "cpp",
     "ii": "cpp",
+    "cppm": "cpp",
     "hh": "hpp",
     "hpp": "hpp",
     "hxx": "hpp",
@@ -10930,6 +11011,11 @@
     "fsi": "fsharp",
     "fsproj": "fsharp",
     "swift": "swift",
+    "xcplayground": "swift",
+    "swiftdeps": "swift",
+    "swiftdoc": "swift",
+    "swiftmodule": "swift",
+    "swiftsourceinfo": "swift",
     "ino": "arduino",
     "dockerignore": "docker",
     "dockerfile": "docker",
@@ -11662,6 +11748,7 @@
     "css.jsx": "vanilla-extract",
     "toc": "toc",
     "cue": "cue",
+    "lean": "lean",
     "wxml": "wxml",
     "wxss": "wxss"
   },
@@ -11778,36 +11865,36 @@
     "gradlew": "gradle",
     "gradle-wrapper.properties": "gradle",
     "gradlew.bat": "gradle",
-    "copying": "certificate",
-    "copying.md": "certificate",
-    "copying.rst": "certificate",
-    "copying.txt": "certificate",
-    "copyright": "certificate",
-    "copyright.md": "certificate",
-    "copyright.rst": "certificate",
-    "copyright.txt": "certificate",
-    "license": "certificate",
-    "license-agpl": "certificate",
-    "license-apache": "certificate",
-    "license-bsd": "certificate",
-    "license-mit": "certificate",
-    "license-gpl": "certificate",
-    "license-lgpl": "certificate",
-    "license.md": "certificate",
-    "license.rst": "certificate",
-    "license.txt": "certificate",
-    "licence": "certificate",
-    "licence-agpl": "certificate",
-    "licence-apache": "certificate",
-    "licence-bsd": "certificate",
-    "licence-mit": "certificate",
-    "licence-gpl": "certificate",
-    "licence-lgpl": "certificate",
-    "licence.md": "certificate",
-    "licence.rst": "certificate",
-    "licence.txt": "certificate",
-    "unlicense": "certificate",
-    "unlicense.txt": "certificate",
+    "copying": "license",
+    "copying.md": "license",
+    "copying.rst": "license",
+    "copying.txt": "license",
+    "copyright": "license",
+    "copyright.md": "license",
+    "copyright.rst": "license",
+    "copyright.txt": "license",
+    "license": "license",
+    "license-agpl": "license",
+    "license-apache": "license",
+    "license-bsd": "license",
+    "license-mit": "license",
+    "license-gpl": "license",
+    "license-lgpl": "license",
+    "license.md": "license",
+    "license.rst": "license",
+    "license.txt": "license",
+    "licence": "license",
+    "licence-agpl": "license",
+    "licence-apache": "license",
+    "licence-bsd": "license",
+    "licence-mit": "license",
+    "licence-gpl": "license",
+    "licence-lgpl": "license",
+    "licence.md": "license",
+    "licence.rst": "license",
+    "licence.txt": "license",
+    "unlicense": "unlicense",
+    "unlicense.txt": "unlicense",
     ".htpasswd": "key",
     "sha256sums": "key",
     ".secrets": "key",
@@ -11823,6 +11910,7 @@
     ".rspec": "rspec",
     ".swift-format": "swift",
     ".swift-version": "swift",
+    ".swiftformat": "swift",
     "dockerfile": "docker",
     "dockerfile.prod": "docker",
     "dockerfile.production": "docker",
@@ -12359,6 +12447,12 @@
     "rspress.config.ts": "rstack",
     "rslint.json": "rstack",
     "rslint.jsonc": "rstack",
+    "lynx.config.js": "lynx",
+    "lynx.config.mjs": "lynx",
+    "lynx.config.cjs": "lynx",
+    "lynx.config.ts": "lynx",
+    "lynx.config.mts": "lynx",
+    "lynx.config.cts": "lynx",
     "ionic.config.json": "ionic",
     ".io-config.json": "ionic",
     "gulpfile.js": "gulp",
@@ -13088,6 +13182,18 @@
     "vitest.config.ts": "vitest",
     "vitest.config.mts": "vitest",
     "vitest.config.cts": "vitest",
+    "vitest.unit.config.js": "vitest",
+    "vitest.unit.config.mjs": "vitest",
+    "vitest.unit.config.cjs": "vitest",
+    "vitest.unit.config.ts": "vitest",
+    "vitest.unit.config.mts": "vitest",
+    "vitest.unit.config.cts": "vitest",
+    "vitest.e2e.config.js": "vitest",
+    "vitest.e2e.config.mjs": "vitest",
+    "vitest.e2e.config.cjs": "vitest",
+    "vitest.e2e.config.ts": "vitest",
+    "vitest.e2e.config.mts": "vitest",
+    "vitest.e2e.config.cts": "vitest",
     "velite.config.js": "velite",
     "velite.config.mjs": "velite",
     "velite.config.cjs": "velite",
@@ -13535,6 +13641,7 @@
     ".coderabbit.yml": "coderabbit-ai",
     ".coderabbit.yaml": "coderabbit-ai",
     ".aiexclude": "gemini-ai",
+    "GEMINI.md": "gemini-ai",
     "taze.config.js": "taze",
     "taze.config.mjs": "taze",
     "taze.config.cjs": "taze",
@@ -13639,7 +13746,10 @@
     "hadolint.yaml": "hadolint",
     "hadolint.yml": "hadolint",
     "tsdoc.json": "tsdoc",
-    ".oxlintrc.json": "oxlint",
+    ".oxlintrc.json": "oxc",
+    ".oxlintrc.jsonc": "oxc",
+    ".oxfmtrc.json": "oxc",
+    ".oxfmtrc.jsonc": "oxc",
     "CLAUDE.md": "claude",
     "CLAUDE.local.md": "claude",
     ".cursorignore": "cursor",
@@ -13662,6 +13772,7 @@
     "GoogleService-Info.plist": "google",
     ".shellcheckrc": "shellcheck",
     "shellcheckrc": "shellcheck",
+    "warp.md": "warp",
     "application.properties": "spring",
     "application.yml": "spring",
     "application.yaml": "spring",
@@ -13690,6 +13801,7 @@
     "toml": "toml",
     "diff": "diff",
     "json": "json",
+    "jsonl": "json",
     "jsonc": "json",
     "json5": "json",
     "blink": "blink",
@@ -13866,6 +13978,7 @@
     "helm": "helm",
     "nginx": "nginx",
     "cue": "cue",
+    "lean": "lean",
     "wxml": "wxml",
     "wxss": "wxss"
   },
@@ -14075,7 +14188,8 @@
       "src/bashly-strings.yaml": "bashly-strings_light",
       "src/bashly-strings.yml": "bashly-strings_light",
       ".shellcheckrc": "shellcheck_light",
-      "shellcheckrc": "shellcheck_light"
+      "shellcheckrc": "shellcheck_light",
+      "warp.md": "warp_light"
     },
     "languageIds": {
       "toml": "toml_light",
